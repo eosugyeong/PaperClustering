@@ -1,6 +1,7 @@
 # Paper Clustering - 논문 분류기
 
-### 이번 장에서는 Unsupervised(비지도 학습) 방법 중 Clustering을 이용하여 Paper들을 clustering 하였다.
+### 소개
+- Unsupervised(비지도 학습) 방법 중 Clustering을 이용하여 Paper들을 clustering
 
 #### Language
 - Language: Python
@@ -22,6 +23,5 @@
     - Cosine
     - Jaccard
     - Manhattan
-    - Euclidean
-    
-- 04_reference
+    - Euclidean    
+- 04_reference: 논문 reference 추출
